@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;project&apos;&#x0D;&#x0A;- Original project: &apos;project&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Unconfirmed 499887.crdownload&#x0D;&#x0A;     Unconfirmed 700703.crdownload&#x0D;&#x0A;     Unconfirmed 727288.crdownload" description="Delete elements" element1="src/main/webapp/WEB-INF/lib/Unconfirmed 499887.crdownload" element2="src/main/webapp/WEB-INF/lib/Unconfirmed 700703.crdownload" element3="src/main/webapp/WEB-INF/lib/Unconfirmed 727288.crdownload" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="3" stamp="1670392149227" subPackages="false" version="1.0"/>
+</session>

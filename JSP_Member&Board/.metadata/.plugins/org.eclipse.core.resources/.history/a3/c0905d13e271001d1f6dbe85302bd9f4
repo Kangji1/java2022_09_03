@@ -1,0 +1,6 @@
+package handler;
+
+public class PagingHandler {
+
+	private int startPage; //현재 화면에서 보여줄 시작 페이지 번호
+}

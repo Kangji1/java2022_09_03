@@ -1,0 +1,78 @@
+package domain;
+
+public class CommentVO {
+
+		private int cno;
+		private int bno;
+		private String writer;
+		private String content;
+		private String leg_at;
+		
+		public CommentVO() {}
+		
+		//post(bno, writer, content)
+		public CommentVO(int bno, String writer, String content) {
+			super();
+			this.bno = bno;
+			this.writer = writer;
+			this.content = content;
+		}
+
+		//modify(cno, content)
+		public CommentVO(int cno, String content) {
+			this.cno = cno;
+			this.content = content;
+		}
+
+		//list(bno, cno, writer, content, ref_at)
+		public CommentVO(int cno, int bno, String writer, String content, String leg_at) {
+			this.cno = cno;
+			this.bno = bno;
+			this.writer = writer;
+			this.content = content;
+			this.leg_at = leg_at;
+		}
+
+		public int getCno() {
+			return cno;
+		}
+
+		public void setCno(int cno) {
+			this.cno = cno;
+		}
+
+		public int getBno() {
+			return bno;
+		}
+
+		public void setBno(int bno) {
+			this.bno = bno;
+		}
+
+		public String getWriter() {
+			return writer;
+		}
+
+		public void setWriter(String writer) {
+			this.writer = writer;
+		}
+
+		public String getContent() {
+			return content;
+		}
+
+		public void setContent(String content) {
+			this.content = content;
+		}
+
+		public String getLeg_at() {
+			return leg_at;
+		}
+
+		public void setLeg_at(String leg_at) {
+			this.leg_at = leg_at;
+		}
+		
+		
+	
+	}

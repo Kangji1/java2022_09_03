@@ -1,0 +1,36 @@
+package domain;
+
+class CommentVO {
+
+//			cno int not null auto_increment,
+//			bno int default -1,
+//			writer varchar(100) default "unknown",
+//			content varchar(1000) not null,
+//			leg_at datetime default current_timestamp,
+//			primary key(cno));
+	
+		private int cno;
+		private int bno;
+		private String writer;
+		private String content;
+		private String leg_at;
+		
+		public CommentVO() {}
+		
+		//post(bno, writer, content)
+		public CommentVO(int bno, String writer, String content) {
+			this.bno = bno;
+			this.writer = writer;
+			this.content = content;
+		}
+		
+	
+
+		//list(bno, cno, writer, content, ref_at)
+		
+		
+		//modify
+		
+		
+		//remove
+	}

@@ -1,0 +1,7 @@
+package domain;
+
+public class PagingVO {
+
+	private int pageNo;
+	private int qty;
+}

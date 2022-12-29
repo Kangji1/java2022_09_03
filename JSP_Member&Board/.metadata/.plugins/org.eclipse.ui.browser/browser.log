@@ -1,0 +1,132 @@
+
+11월 30, 2022 10:40:34.659 NEW SESSION
+11월 30, 2022 10:40:34.659 [12508:11748:1130/104034.656:ERROR:device_event_log_impl.cc(215)] [10:40:34.656] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 10:40:55.953 [4552:10328:1130/104055.953:ERROR:device_event_log_impl.cc(215)] [10:40:55.953] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+11월 30, 2022 10:53:16.921 NEW SESSION
+11월 30, 2022 10:53:16.921 [6680:11992:1130/105316.920:ERROR:device_event_log_impl.cc(215)] [10:53:16.919] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 15:12:12.705 [4676:11360:1130/151212.705:ERROR:device_event_log_impl.cc(215)] [15:12:12.705] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 15:13:09.119 [4676:11260:1130/151309.118:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 30, 2022 16:39:35.529 [6180:11132:1130/163935.529:ERROR:device_event_log_impl.cc(215)] [16:39:35.530] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 16:40:37.974 [10788:8704:1130/164037.974:ERROR:device_event_log_impl.cc(215)] [16:40:37.974] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 16:41:34.251 [10788:12464:1130/164134.251:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 30, 2022 16:44:54.108 [7636:5892:1130/164454.108:ERROR:device_event_log_impl.cc(215)] [16:44:54.108] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 16:45:50.364 [7636:11644:1130/164550.364:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 30, 2022 16:56:56.982 [9824:3020:1130/165656.982:ERROR:device_event_log_impl.cc(215)] [16:56:56.982] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 16:57:53.344 [9824:4504:1130/165753.343:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 30, 2022 16:58:18.650 [10004:1768:1130/165818.649:ERROR:device_event_log_impl.cc(215)] [16:58:18.649] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 16:59:21.542 [3832:5152:1130/165921.542:ERROR:device_event_log_impl.cc(215)] [16:59:21.542] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 17:00:18.732 [3832:13164:1130/170018.732:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 30, 2022 17:02:26.224 [7332:10912:1130/170226.224:ERROR:device_event_log_impl.cc(215)] [17:02:26.223] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 17:03:23.232 [7332:8420:1130/170323.231:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 30, 2022 17:08:03.730 [5944:4468:1130/170803.730:ERROR:device_event_log_impl.cc(215)] [17:08:03.730] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 17:09:00.103 [5944:2444:1130/170900.102:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 30, 2022 17:12:34.559 [12724:2528:1130/171234.559:ERROR:device_event_log_impl.cc(215)] [17:12:34.560] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 17:13:31.536 [12724:9440:1130/171331.536:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 30, 2022 17:17:55.845 [6688:5188:1130/171755.845:ERROR:device_event_log_impl.cc(215)] [17:17:55.844] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 17:18:52.448 [6688:8700:1130/171852.448:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 30, 2022 17:19:32.963 [2012:6184:1130/171932.963:ERROR:device_event_log_impl.cc(215)] [17:19:32.963] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 17:20:29.839 [2012:3144:1130/172029.838:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 30, 2022 17:40:34.502 [8336:10852:1130/174034.502:ERROR:device_event_log_impl.cc(215)] [17:40:34.501] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 17:40:51.610 [8336:10616:1130/174051.610:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 30, 2022 17:45:16.994 [5128:4972:1130/174516.994:ERROR:device_event_log_impl.cc(215)] [17:45:16.994] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 17:46:13.251 [5128:7604:1130/174613.250:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 30, 2022 17:50:58.449 [11456:6604:1130/175058.449:ERROR:device_event_log_impl.cc(215)] [17:50:58.449] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 17:51:48.419 [8940:2876:1130/175148.419:ERROR:device_event_log_impl.cc(215)] [17:51:48.418] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 17:52:25.749 [3400:12652:1130/175225.749:ERROR:device_event_log_impl.cc(215)] [17:52:25.748] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 17:53:22.332 [3400:7796:1130/175322.332:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 30, 2022 17:58:19.639 [11956:3848:1130/175819.639:ERROR:device_event_log_impl.cc(215)] [17:58:19.639] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 17:59:26.558 [13064:8720:1130/175926.558:ERROR:device_event_log_impl.cc(215)] [17:59:26.559] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 18:00:22.728 [13064:3156:1130/180022.728:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+12월 02, 2022 09:57:52.521 NEW SESSION
+12월 02, 2022 09:57:52.521 [5468:10936:1202/095752.520:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+12월 02, 2022 09:57:56.32 [5468:10936:1202/095756.032:ERROR:device_event_log_impl.cc(215)] [09:57:56.032] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 02, 2022 12:12:45.841 [4188:7324:1202/121245.841:ERROR:device_event_log_impl.cc(215)] [12:12:45.841] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 02, 2022 12:13:43.835 [4188:5268:1202/121343.835:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 02, 2022 12:19:20.888 [3932:6388:1202/121920.888:ERROR:device_event_log_impl.cc(215)] [12:19:20.887] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 02, 2022 12:20:17.970 [3932:7336:1202/122017.970:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 02, 2022 12:21:15.298 [10172:6116:1202/122115.298:ERROR:device_event_log_impl.cc(215)] [12:21:15.312] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 02, 2022 12:21:39.985 [9572:6032:1202/122139.985:ERROR:device_event_log_impl.cc(215)] [12:21:39.984] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 02, 2022 12:22:11.898 [9656:3084:1202/122211.897:ERROR:device_event_log_impl.cc(215)] [12:22:11.897] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 02, 2022 12:23:09.431 [9656:6260:1202/122309.430:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 02, 2022 12:25:05.222 [2688:10032:1202/122505.222:ERROR:device_event_log_impl.cc(215)] [12:25:05.222] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 02, 2022 12:26:02.42 [2688:9968:1202/122602.041:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 02, 2022 12:31:48.693 [6440:6136:1202/123148.693:ERROR:device_event_log_impl.cc(215)] [12:31:48.693] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 02, 2022 12:32:38.274 [6440:7064:1202/123238.274:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+12월 05, 2022 09:41:35.596 NEW SESSION
+12월 05, 2022 09:41:35.596 [13872:13944:1205/094135.595:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+12월 05, 2022 09:41:37.606 [13872:13944:1205/094137.606:ERROR:device_event_log_impl.cc(215)] [09:41:37.606] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 05, 2022 09:42:35.585 [13872:3468:1205/094235.585:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 05, 2022 09:43:49.58 [13872:13944:1205/094349.058:ERROR:interface_endpoint_client.cc(694)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 05, 2022 10:08:41.441 [13872:13944:1205/100841.441:ERROR:interface_endpoint_client.cc(694)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 05, 2022 10:08:41.441 [13872:13944:1205/100841.441:ERROR:interface_endpoint_client.cc(694)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 05, 2022 10:25:46.972 [1205/102546.972:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\49ab0635-2ee9-4683-b7b1-10d34696eef1: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.972 [1205/102546.972:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\81ac55ef-9069-43fe-8430-88cbfa5aa2b1: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.972 [1205/102546.972:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\1a94e471-fbb6-42ae-bb57-d7441bc8f4b0: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.973 [1205/102546.973:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\89108030-587f-410f-8de0-87ae07da3a99: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.973 [1205/102546.973:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\49ab0635-2ee9-4683-b7b1-10d34696eef1: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.973 [1205/102546.973:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\81ac55ef-9069-43fe-8430-88cbfa5aa2b1: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.973 [1205/102546.973:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\1a94e471-fbb6-42ae-bb57-d7441bc8f4b0: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.973 [1205/102546.973:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\89108030-587f-410f-8de0-87ae07da3a99: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.974 [1205/102546.974:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\49ab0635-2ee9-4683-b7b1-10d34696eef1: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.974 [1205/102546.974:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\81ac55ef-9069-43fe-8430-88cbfa5aa2b1: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.974 [1205/102546.974:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\1a94e471-fbb6-42ae-bb57-d7441bc8f4b0: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.975 [1205/102546.975:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\89108030-587f-410f-8de0-87ae07da3a99: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.975 [1205/102546.975:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\89108030-587f-410f-8de0-87ae07da3a99: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.976 [1205/102546.976:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\49ab0635-2ee9-4683-b7b1-10d34696eef1: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.976 [1205/102546.976:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\81ac55ef-9069-43fe-8430-88cbfa5aa2b1: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.976 [1205/102546.976:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\1a94e471-fbb6-42ae-bb57-d7441bc8f4b0: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.977 [1205/102546.977:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\1a94e471-fbb6-42ae-bb57-d7441bc8f4b0: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.978 [1205/102546.977:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\49ab0635-2ee9-4683-b7b1-10d34696eef1: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.978 [1205/102546.978:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\81ac55ef-9069-43fe-8430-88cbfa5aa2b1: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.978 [1205/102546.978:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\81ac55ef-9069-43fe-8430-88cbfa5aa2b1: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.979 [1205/102546.979:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\49ab0635-2ee9-4683-b7b1-10d34696eef1: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:25:46.979 [1205/102546.979:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\49ab0635-2ee9-4683-b7b1-10d34696eef1: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 05, 2022 10:53:45.564 [13872:13944:1205/105345.564:ERROR:device_event_log_impl.cc(215)] [10:53:45.564] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 05, 2022 13:51:54.646 [13872:4360:1205/135154.646:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+12월 05, 2022 13:52:00.925 [13872:4360:1205/135200.925:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+12월 05, 2022 13:54:29.22 [13872:4360:1205/135429.022:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+12월 05, 2022 13:54:41.912 [13872:4360:1205/135441.912:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+12월 05, 2022 13:57:10.243 [13872:4360:1205/135710.243:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+12월 05, 2022 13:58:02.940 [13872:4360:1205/135802.940:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+12월 05, 2022 14:00:31.246 [13872:4360:1205/140031.246:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+12월 05, 2022 14:02:01.931 [13872:4360:1205/140201.930:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+12월 05, 2022 14:04:30.249 [13872:4360:1205/140430.249:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+12월 05, 2022 14:05:23.911 [13872:4360:1205/140523.911:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+12월 05, 2022 14:07:52.335 [13872:4360:1205/140752.335:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+12월 05, 2022 14:08:44.913 [13872:4360:1205/140844.912:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+12월 05, 2022 14:11:13.292 [13872:4360:1205/141113.292:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+12월 05, 2022 14:12:04.933 [13872:4360:1205/141204.932:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+12월 05, 2022 14:14:33.227 [13872:4360:1205/141433.227:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+12월 05, 2022 14:15:25.915 [13872:4360:1205/141525.915:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+12월 05, 2022 14:17:54.323 [13872:4360:1205/141754.323:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+12월 05, 2022 14:17:55.11 [13872:4360:1205/141755.011:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+12월 05, 2022 14:19:26.931 [13872:4360:1205/141926.931:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+12월 05, 2022 14:21:55.228 [13872:4360:1205/142155.228:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+12월 05, 2022 14:22:48.911 [13872:4360:1205/142248.911:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+12월 05, 2022 14:25:17.351 [13872:4360:1205/142517.351:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+12월 05, 2022 14:26:10.915 [13872:4360:1205/142610.915:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+12월 05, 2022 14:28:39.359 [13872:4360:1205/142839.359:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+12월 05, 2022 14:29:28.931 [13872:4360:1205/142928.930:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+12월 05, 2022 14:31:57.275 [13872:4360:1205/143157.275:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+12월 05, 2022 14:32:51.935 [13872:4360:1205/143251.935:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+12월 05, 2022 15:16:55.387 [15148:12932:1205/151655.387:ERROR:device_event_log_impl.cc(215)] [15:16:55.386] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 05, 2022 15:17:53.258 [15148:11024:1205/151753.257:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 05, 2022 15:53:14.74 [944:9724:1205/155314.074:ERROR:device_event_log_impl.cc(215)] [15:53:14.073] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 05, 2022 15:54:11.71 [944:9488:1205/155411.071:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 05, 2022 15:54:34.631 [6996:12196:1205/155434.631:ERROR:device_event_log_impl.cc(215)] [15:54:34.630] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 05, 2022 15:55:31.532 [6996:13172:1205/155531.532:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 05, 2022 15:56:17.222 [5856:2516:1205/155617.222:ERROR:device_event_log_impl.cc(215)] [15:56:17.222] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 05, 2022 15:57:14.486 [5856:9816:1205/155714.486:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 05, 2022 16:01:43.849 [1324:13940:1205/160143.849:ERROR:device_event_log_impl.cc(215)] [16:01:43.848] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 05, 2022 16:02:40.387 [1324:2204:1205/160240.387:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 05, 2022 16:02:54.176 [1084:5684:1205/160254.176:ERROR:device_event_log_impl.cc(215)] [16:02:54.176] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 05, 2022 16:03:51.555 [1084:2128:1205/160351.555:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 05, 2022 16:19:52.487 [14756:12904:1205/161952.487:ERROR:device_event_log_impl.cc(215)] [16:19:52.487] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 05, 2022 16:20:49.172 [14756:9392:1205/162049.172:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+12월 06, 2022 15:00:31.803 NEW SESSION
+12월 06, 2022 15:00:31.803 [11832:13780:1206/150031.802:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+12월 06, 2022 15:00:35.200 [11832:13780:1206/150035.200:ERROR:device_event_log_impl.cc(215)] [15:00:35.201] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
